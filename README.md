@@ -24,8 +24,11 @@ The app predicts the next possible word in a given sequence of words using a tra
 
 ## 📂 Project Structure
 ├── app.py # Streamlit app file
+
 ├── next_word_lstm.h5 # Trained LSTM model (required)
+
 ├── tokenizer.pickle # Tokenizer for word encoding (required)
+
 └── README.md # Project documentation
 
 
@@ -49,3 +52,4 @@ The app predicts the next possible word in a given sequence of words using a tra
 4. Open in your browser
   The app will run locally at:
   👉 http://localhost:8501
+
